@@ -1,0 +1,6 @@
+{
+  "name": "Scene Image Generator",
+  "description": "Metin veya senaryolardaki sahneleri (örneğin 'scene' veya 'sahne' ile başlayan satırları) ayıklayıp Gemini ile eş zamanlı olarak görseller üreten ve hepsini tek bir tıklamayla ZIP dosyası olarak indiren web uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
